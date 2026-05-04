@@ -14,10 +14,10 @@ window.onload = function () {
         return;
     }
 
-    // Show selected elements
+    // ✅ Show selected elements
     pairDiv.innerText = `${e1} + ${e2}`;
 
-    // Fetch compounds
+    // ✅ Fetch compounds
     fetch(`${BASE_URL}/compounds?e1=${e1}&e2=${e2}`)
         .then(res => res.json())
         .then(data => {
@@ -27,14 +27,16 @@ window.onload = function () {
                 return;
             }
 
+            // 🔥 CREATE BUTTONS
             data.possible_compounds.forEach(c => {
+
                 const btn = document.createElement("button");
 
                 btn.className = "compound-btn";
                 btn.innerText = c.formula;
 
-                // 🔥 IMPORTANT: send full data
-                btn.onclick = () => goToCompound(c);
+                // ✅ FIX: DIRECT POPUP CALL
+                btn.onclick = () => showCompoundPopup(c);
 
                 container.appendChild(btn);
             });
@@ -46,24 +48,37 @@ window.onload = function () {
 };
 
 
-// 🔥 FUNCTION MUST BE OUTSIDE (NOT INSIDE LOOP)
-function goToCompound(c) {
 
-    const params = new URLSearchParams({
-        formula: c.formula,
-        name: c.name,
-        bond: c.bond_type,
-        state: c.state,
-        color: c.color,
-        uses: c.uses,
-        desc: c.description
-    });
+// 🔥 POPUP FUNCTION (WORKING)
+function showCompoundPopup(c) {
+    const popup = document.getElementById("popup");
+    const body = document.getElementById("popup-body");
 
-    window.location.href = "compound.html?" + params.toString();
+    if (!popup || !body) {
+        console.error("Popup not found!");
+        return;
+    }
+
+    body.innerHTML = `
+        <h2>${c.formula}</h2>
+        <p><b>Name:</b> ${c.name}</p>
+        <p><b>Bond Type:</b> ${c.bond_type}</p>
+        <p><b>State:</b> ${c.state}</p>
+        <p><b>Color:</b> ${c.color}</p>
+        <p><b>Uses:</b> ${c.uses}</p>
+        <p><b>Description:</b> ${c.description}</p>
+        
+    `;
+
+    popup.style.display = "flex";
 }
 
 
-// Back button
+
+// 🔥 CLOSE POPUP
+function closePopup() {
+    document.getElementById("popup").style.display = "none";
+}
 function goBack() {
-    window.history.back();
+    window.location.href = "home.html";
 }

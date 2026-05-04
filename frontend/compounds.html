@@ -15,9 +15,16 @@
     <!-- Compound buttons -->
     <div id="compoundContainer" class="compound-list"></div>
 
-    <button onclick="goBack()" class="back-btn">← Back</button>
+    <!-- COMPOUND POPUP -->
+<div id="popup" class="popup">
+    <div class="popup-content">
+        <span class="close" onclick="closePopup()">&times;</span>
+        <div id="popup-body"></div>
+    </div>
+</div>
 
-    <!-- IMPORTANT: JS at bottom -->
+<button onclick="goBack()" class="back-btn">← Back</button>
+<!-- IMPORTANT: JS at bottom -->
     <script src="compounds.js"></script>
 
 </body>

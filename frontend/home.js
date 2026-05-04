@@ -81,30 +81,49 @@ function setMode(mode) {
 // HANDLE ELEMENT CLICK
 function handleElementClick(symbol) {
 
-    // SINGLE ELEMENT MODE
     if (selectedMode === "single") {
-        window.location.href = `element.html?symbol=${symbol}`;
+        // 🔥 FETCH ELEMENT INFO
+        fetch(`${BASE_URL}/element?symbol=${symbol}`)
+            .then(res => res.json())
+            .then(data => showElementPopup(data));
+
         return;
     }
 
-    // DOUBLE ELEMENT MODE
     if (selectedMode === "double") {
-
-        // prevent duplicate selection
         if (selectedElements.includes(symbol)) return;
 
         selectedElements.push(symbol);
 
-        console.log("Selected:", selectedElements);
-
-        // when 2 selected → go to compounds page
         if (selectedElements.length === 2) {
             const e1 = selectedElements[0];
             const e2 = selectedElements[1];
+window.onclick = function(event) {
+    const popup = document.getElementById("popup");
+    if (event.target === popup) {
+        popup.style.display = "none";
+    }
+}
 
             window.location.href = `compounds.html?e1=${e1}&e2=${e2}`;
         }
     }
+}
+
+function showElementPopup(data) {
+    const popup = document.getElementById("popup");
+    const body = document.getElementById("popup-body");
+
+    body.innerHTML = `
+        <h2>${data.name} (${data.symbol})</h2>
+        <p><b>Atomic Number:</b> ${data.atomic_number}</p>
+        <p><b>Atomic Mass:</b> ${data.atomic_mass}</p>
+        <p><b>Valency:</b> ${data.valency}</p>
+        <p><b>Oxidation States:</b> ${data.oxidation_states}</p>
+        <p><b>Bond Type:</b> ${data.bond_type}</p>
+    `;
+
+    popup.style.display = "flex";
 }
 
 
@@ -118,4 +137,10 @@ function searchElement() {
     );
 
     displayElements(filtered);
+}
+function closePopup() {
+    const popup = document.getElementById("popup");
+    if (popup) {
+        popup.style.display = "none";
+    }
 }
