@@ -1,0 +1,298 @@
+Element1,Element2,Formula,Name,Bond Type,State,Color,Uses,Description
+H,O,H2O,Water,Covalent,Liquid,Colorless,Drinking cleaning cooling,Essential compound for life
+H,O,H2O2,Hydrogen Peroxide,Covalent,Liquid,Colorless,Disinfectant bleaching,Strong oxidizing agent
+C,O,CO2,Carbon Dioxide,Covalent,Gas,Colorless,Fire extinguishers beverages,Produced in respiration
+C,O,CO,Carbon Monoxide,Covalent,Gas,Colorless,Fuel industrial processes,Toxic gas
+C,H,CH4,Methane,Covalent,Gas,Colorless,Fuel energy,Main natural gas component
+N,H,NH3,Ammonia,Covalent,Gas,Colorless,Fertilizers cleaning,Nitrogen compound
+Na,Cl,NaCl,Sodium Chloride,Ionic,Solid,White,Cooking preservation,Common salt
+K,Cl,KCl,Potassium Chloride,Ionic,Solid,White,Fertilizer medicine,Potassium supplement
+Ca,Cl,CaCl2,Calcium Chloride,Ionic,Solid,White,Deicing drying agent,Absorbs moisture
+Na,O,Na2O,Sodium Oxide,Ionic,Solid,White,Glass making,Basic oxide
+K,O,K2O,Potassium Oxide,Ionic,Solid,White,Fertilizer,Alkali oxide
+Ca,O,CaO,Calcium Oxide,Ionic,Solid,White,Cement production,Quicklime
+Mg,O,MgO,Magnesium Oxide,Ionic,Solid,White,Refractory material,High melting oxide
+Al,O,Al2O3,Aluminium Oxide,Ionic,Solid,White,Abrasives ceramics,Hard oxide
+Fe,O,Fe2O3,Iron Oxide,Ionic,Solid,Red,Pigments rust,Iron oxide
+Fe,O,Fe3O4,Magnetite,Ionic,Solid,Black,Magnetic material,Natural magnet
+S,O,SO2,Sulfur Dioxide,Covalent,Gas,Colorless,Preservative bleaching,Acidic gas
+S,O,SO3,Sulfur Trioxide,Covalent,Gas,Colorless,Sulfuric acid production,Reactive oxide
+H,S,H2S,Hydrogen Sulfide,Covalent,Gas,Colorless,Industrial gas,Toxic gas smell
+H,Cl,HCl,Hydrochloric Acid,Covalent,Liquid,Colorless,Cleaning digestion,Strong acid
+H,Br,HBr,Hydrobromic Acid,Covalent,Liquid,Colorless,Chemical synthesis,Strong acid
+H,F,HF,Hydrofluoric Acid,Covalent,Liquid,Colorless,Glass etching,Dangerous acid
+Na,O,NaOH,Sodium Hydroxide,Ionic,Solid,White,Soap making,Strong base
+K,O,KOH,Potassium Hydroxide,Ionic,Solid,White,Soap batteries,Strong alkali
+Ca,O,Ca(OH)2,Calcium Hydroxide,Ionic,Solid,White,Water treatment,Slaked lime
+Mg,O,Mg(OH)2,Magnesium Hydroxide,Ionic,Solid,White,Antacid,Milk of magnesia
+C,H,C2H6,Ethane,Covalent,Gas,Colorless,Fuel,Hydrocarbon
+C,H,C3H8,Propane,Covalent,Gas,Colorless,Cooking fuel,LPG gas
+C,H,C4H10,Butane,Covalent,Gas,Colorless,Lighters fuel,Hydrocarbon
+C,H,C2H4,Ethene,Covalent,Gas,Colorless,Plastic production,Alkene
+C,H,C2H5OH,Ethanol,Covalent,Liquid,Colorless,Fuel sanitizer,Alcohol
+C,O,C6H12O6,Glucose,Covalent,Solid,White,Energy source,Sugar molecule
+C,O,C12H22O11,Sucrose,Covalent,Solid,White,Sweetener,Sugar
+Na,C,Na2CO3,Sodium Carbonate,Ionic,Solid,White,Glass soap,Soda ash
+Na,C,NaHCO3,Sodium Bicarbonate,Ionic,Solid,White,Baking cleaning,Baking soda
+Ca,C,CaCO3,Calcium Carbonate,Ionic,Solid,White,Cement chalk,Mineral
+Na,S,Na2SO4,Sodium Sulfate,Ionic,Solid,White,Detergents,Drying agent
+K,S,K2SO4,Potassium Sulfate,Ionic,Solid,White,Fertilizer,Sulfate salt
+Ca,S,CaSO4,Calcium Sulfate,Ionic,Solid,White,Plaster,Gypsum
+Ba,S,BaSO4,Barium Sulfate,Ionic,Solid,White,X ray imaging,Insoluble salt
+Na,P,Na3PO4,Sodium Phosphate,Ionic,Solid,White,Detergents,Phosphate salt
+Ca,P,Ca3(PO4)2,Calcium Phosphate,Ionic,Solid,White,Fertilizers,Bone mineral
+H,P,H3PO4,Phosphoric Acid,Covalent,Liquid,Colorless,Food fertilizer,Acid
+N,H,NH4Cl,Ammonium Chloride,Ionic,Solid,White,Batteries,Ammonium salt
+N,H,NH4NO3,Ammonium Nitrate,Ionic,Solid,White,Fertilizer explosive,Nitrogen compound
+Na,Cl,NaClO,Sodium Hypochlorite,Ionic,Liquid,Yellow,Bleach disinfectant,Oxidizer
+Cu,O,CuO,Copper Oxide,Ionic,Solid,Black,Ceramics,Pigment
+Cu,O,Cu2O,Copper Oxide,Ionic,Solid,Red,Paints,Oxide
+Zn,O,ZnO,Zinc Oxide,Ionic,Solid,White,Sunscreen,Rubber additive
+Ag,Cl,AgCl,Silver Chloride,Ionic,Solid,White,Photography,Light sensitive
+Ag,N,AgNO3,Silver Nitrate,Ionic,Solid,White,Medical antiseptic,Reactive salt
+Fe,Cl,FeCl3,Iron Chloride,Ionic,Solid,Brown,Water treatment,Coagulant
+Cu,S,CuSO4,Copper Sulfate,Ionic,Solid,Blue,Fungicide,Blue vitriol
+Zn,S,ZnSO4,Zinc Sulfate,Ionic,Solid,White,Fertilizer,Zinc salt
+Na,F,NaF,Sodium Fluoride,Ionic,Solid,White,Toothpaste,Prevents decay
+Ca,F,CaF2,Calcium Fluoride,Ionic,Solid,White,Optics,Lens material
+Cl,O,Cl2,Chlorine,Covalent,Gas,Green,Disinfectant,Halogen gas
+Br,Br,Br2,Bromine,Covalent,Liquid,Red,Flame retardant,Halogen
+I,I,I2,Iodine,Covalent,Solid,Purple,Medicine,Halogen
+Mg,Cl,MgCl2,Magnesium Chloride,Ionic,Solid,White,Deicing cement,Magnesium salt
+Mn,O,MnO2,Manganese Dioxide,Ionic,Solid,Black,Batteries catalyst,Oxidizing agent
+Mn,O,Mn2O3,Manganese(III) Oxide,Ionic,Solid,Brown,Pigments,Oxide of manganese
+Mn,O,Mn3O4,Manganese Oxide,Ionic,Solid,Black,Ceramics,Mixed oxide
+Fe,Cl,FeCl2,Iron(II) Chloride,Ionic,Solid,Green,Water treatment,Iron salt
+Cu,Cl,CuCl2,Copper(II) Chloride,Ionic,Solid,Green,Catalyst,Transition metal salt
+Zn,Cl,ZnCl2,Zinc Chloride,Ionic,Solid,White,Flux disinfectant,Zinc salt
+Al,Cl,AlCl3,Aluminium Chloride,Ionic,Solid,White,Catalyst,Friedel crafts catalyst
+Ag,Cl,AgCl2,Silver Chloride (II),Ionic,Solid,White,Chemical research,Unstable compound
+Pb,Cl,PbCl2,Lead(II) Chloride,Ionic,Solid,White,Pigments,Toxic salt
+Sn,Cl,SnCl2,Tin(II) Chloride,Ionic,Solid,White,Reducing agent,Tin salt
+Sn,Cl,SnCl4,Tin(IV) Chloride,Covalent,Liquid,Colorless,Chemical synthesis,Tin compound
+Fe,S,FeS,Iron Sulfide,Ionic,Solid,Black,Lab experiments,Sulfide mineral
+Cu,S,CuS,Copper Sulfide,Ionic,Solid,Black,Semiconductors,Sulfide compound
+Zn,S,ZnS,Zinc Sulfide,Ionic,Solid,White,Luminous paints,Phosphor material
+Pb,S,PbS,Lead Sulfide,Ionic,Solid,Black,Sensors,Semiconductor
+Ag,S,Ag2S,Silver Sulfide,Ionic,Solid,Black,Tarnish formation,Silver corrosion
+Na,N,NaNO3,Sodium Nitrate,Ionic,Solid,White,Fertilizer,Oxidizing salt
+K,N,KNO3,Potassium Nitrate,Ionic,Solid,White,Fertilizer fireworks,Strong oxidizer
+Ca,N,Ca(NO3)2,Calcium Nitrate,Ionic,Solid,White,Fertilizer,Calcium salt
+Ag,N,AgNO2,Silver Nitrite,Ionic,Solid,White,Chemical research,Nitrite compound
+Cu,N,Cu(NO3)2,Copper Nitrate,Ionic,Solid,Blue,Catalyst,Copper salt
+Fe,N,Fe(NO3)3,Iron Nitrate,Ionic,Solid,Brown,Catalyst,Iron salt
+Na,S,Na2S,Sodium Sulfide,Ionic,Solid,Yellow,Paper industry,Sulfide compound
+K,S,K2S,Potassium Sulfide,Ionic,Solid,White,Chemical synthesis,Sulfide salt
+Ca,S,CaS,Calcium Sulfide,Ionic,Solid,White,Luminous paints,Sulfide compound
+Al,S,Al2S3,Aluminium Sulfide,Ionic,Solid,Gray,Chemical synthesis,Reacts with water
+Mg,S,MgS,Magnesium Sulfide,Ionic,Solid,White,Chemical production,Sulfide
+Na,P,Na3P,Sodium Phosphide,Ionic,Solid,Black,Chemical synthesis,Reactive compound
+Ca,P,Ca3P2,Calcium Phosphide,Ionic,Solid,Red,Smoke signals,Phosphide
+Al,P,AlP,Aluminium Phosphide,Ionic,Solid,Gray,Pesticide,Toxic compound
+Zn,P,Zn3P2,Zinc Phosphide,Ionic,Solid,Gray,Rodenticide,Poison compound
+Cu,O,Cu2O,Copper(I) Oxide,Ionic,Solid,Red,Paints antifouling,Oxide
+Pb,O,PbO,Lead Oxide,Ionic,Solid,Yellow,Batteries,Lead compound
+Sn,O,SnO2,Tin Dioxide,Ionic,Solid,White,Glass coating,Transparent oxide
+Ti,O,TiO2,Titanium Dioxide,Ionic,Solid,White,Paint sunscreen,White pigment
+Cr,O,Cr2O3,Chromium Oxide,Ionic,Solid,Green,Pigments,Corrosion resistant
+Co,O,CoO,Cobalt Oxide,Ionic,Solid,Black,Ceramics,Cobalt compound
+Ni,O,NiO,Nickel Oxide,Ionic,Solid,Green,Batteries,Catalyst
+Fe,O,FeO,Iron(II) Oxide,Ionic,Solid,Black,Steel making,Iron oxide
+Ba,O,BaO,Barium Oxide,Ionic,Solid,White,Ceramics,Alkaline oxide
+Sr,O,SrO,Strontium Oxide,Ionic,Solid,White,Pyrotechnics,Metal oxide
+Na,Br,NaBr,Sodium Bromide,Ionic,Solid,White,Medicine,Halide salt
+K,Br,KBr,Potassium Bromide,Ionic,Solid,White,Photography,Sedative use
+Ag,Br,AgBr,Silver Bromide,Ionic,Solid,Yellow,Photography,Light sensitive
+Na,I,NaI,Sodium Iodide,Ionic,Solid,White,Medicine,Iodine source
+K,I,KI,Potassium Iodide,Ionic,Solid,White,Medical use,Thyroid protection
+Ag,I,AgI,Silver Iodide,Ionic,Solid,Yellow,Cloud seeding,Photosensitive
+Li,Cl,LiCl,Lithium Chloride,Ionic,Solid,White,Desiccant batteries,Hygroscopic lithium salt
+Li,O,Li2O,Lithium Oxide,Ionic,Solid,White,Ceramics,Alkali metal oxide
+Li,O,LiOH,Lithium Hydroxide,Ionic,Solid,White,CO2 scrubbing,Strong base
+Na,O,Na2O2,Sodium Peroxide,Ionic,Solid,Yellow,Bleaching oxygen source,Releases oxygen
+K,O,K2O2,Potassium Peroxide,Ionic,Solid,Yellow,Oxygen source,Reactive peroxide
+Ba,O,BaO2,Barium Peroxide,Ionic,Solid,White,Oxygen generation,Peroxide compound
+Sr,O,SrO2,Strontium Peroxide,Ionic,Solid,White,Pyrotechnics,Peroxide salt
+Ca,O,CaO2,Calcium Peroxide,Ionic,Solid,White,Soil treatment,Oxygen releasing compound
+Mg,O,MgO2,Magnesium Peroxide,Ionic,Solid,White,Environmental use,Peroxide
+Na,N,NaNO2,Sodium Nitrite,Ionic,Solid,White,Food preservative,Nitrite salt
+K,N,KNO2,Potassium Nitrite,Ionic,Solid,White,Chemical synthesis,Nitrite salt
+Ag,N,AgNO3,Silver Nitrate,Ionic,Solid,White,Antiseptic photography,Light sensitive salt
+Pb,N,Pb(NO3)2,Lead Nitrate,Ionic,Solid,White,Pigments explosives,Toxic nitrate
+Cu,N,CuNO3,Copper(I) Nitrate,Ionic,Solid,Blue,Catalyst,Unstable nitrate
+Fe,N,Fe(NO3)2,Iron(II) Nitrate,Ionic,Solid,Green,Catalyst,Iron nitrate
+Na,C,NaCN,Sodium Cyanide,Ionic,Solid,White,Gold extraction,Highly toxic salt
+K,C,KCN,Potassium Cyanide,Ionic,Solid,White,Mining,Very toxic compound
+Ag,C,AgCN,Silver Cyanide,Ionic,Solid,White,Electroplating,Complex forming
+Fe,C,Fe3C,Iron Carbide,Ionic,Solid,Gray,Steel production,Cementite phase
+Ca,C,CaC2,Calcium Carbide,Ionic,Solid,Gray,Acetylene production,Reacts with water
+Al,C,Al4C3,Aluminium Carbide,Ionic,Solid,Yellow,Hydrolysis reactions,Carbide compound
+Si,O,SiO2,Silicon Dioxide,Covalent,Solid,White,Glass electronics,Quartz structure
+Si,O,SiO,Silicon Monoxide,Covalent,Solid,Brown,Electronics,Semiconductor material
+B,O,B2O3,Boron Oxide,Covalent,Solid,White,Glass ceramics,Network former
+P,O,P4O10,Phosphorus Pentoxide,Covalent,Solid,White,Dehydrating agent,Highly hygroscopic
+N,O,N2O,Nitrous Oxide,Covalent,Gas,Colorless,Anesthesia,Greenhouse gas
+N,O,NO,Nitric Oxide,Covalent,Gas,Colorless,Biological signaling,Reactive gas
+N,O,NO2,Nitrogen Dioxide,Covalent,Gas,Brown,Pollution studies,Toxic gas
+Cl,O,ClO2,Chlorine Dioxide,Covalent,Gas,Yellow,Water purification,Disinfectant gas
+Cl,O,Cl2O,Chlorine Monoxide,Covalent,Gas,Yellow,Oxidizing agent,Reactive oxide
+Br,O,Br2O,Bromine Oxide,Covalent,Gas,Brown,Chemical synthesis,Unstable oxide
+I,O,I2O5,Iodine Pentoxide,Covalent,Solid,White,Analytical chemistry,Oxidizer
+H,O,H2O2,Hydrogen Peroxide,Covalent,Liquid,Colorless,Disinfectant bleaching,Oxidizer
+H,O,H2O,Water,Covalent,Liquid,Colorless,Universal solvent,Life essential compound
+H,N,HNO3,Nitric Acid,Covalent,Liquid,Colorless,Fertilizers explosives,Strong acid
+H,S,H2SO4,Sulfuric Acid,Covalent,Liquid,Colorless,Batteries industry,Strong acid
+H,P,H3PO3,Phosphorous Acid,Covalent,Liquid,Colorless,Reducing agent,Weak acid
+H,C,H2CO3,Carbonic Acid,Covalent,Liquid,Colorless,Beverages,Weak acid
+Na,C,Na2C2O4,Sodium Oxalate,Ionic,Solid,White,Cleaning agent,Oxalate salt
+K,C,K2C2O4,Potassium Oxalate,Ionic,Solid,White,Chemical reagent,Oxalate salt
+Ca,C,CaC2O4,Calcium Oxalate,Ionic,Solid,White,Kidney stones,Insoluble salt
+Fe,C,FeC2O4,Iron Oxalate,Ionic,Solid,Yellow,Catalysis,Iron complex
+Cu,C,CuC2O4,Copper Oxalate,Ionic,Solid,Blue,Catalyst,Transition compound
+Na,S,Na2S2O3,Sodium Thiosulfate,Ionic,Solid,White,Photography,Fixing agent
+K,S,K2S2O3,Potassium Thiosulfate,Ionic,Solid,White,Fertilizer,Thiosulfate salt
+Na,S,Na2S2O7,Sodium Pyrosulfate,Ionic,Solid,White,Cleaning agent,Acidic salt
+K,S,K2S2O7,Potassium Pyrosulfate,Ionic,Solid,White,Flux,Reactive salt
+Na,O,NaClO3,Sodium Chlorate,Ionic,Solid,White,Herbicide,Strong oxidizer
+K,O,KClO3,Potassium Chlorate,Ionic,Solid,White,Matches fireworks,Oxidizer
+Na,O,NaClO4,Sodium Perchlorate,Ionic,Solid,White,Rocket propellant,Powerful oxidizer
+K,O,KClO4,Potassium Perchlorate,Ionic,Solid,White,Fireworks,Stable oxidizer
+Ba,S,BaS,Barium Sulfide,Ionic,Solid,White,Phosphors,Sulfide compound
+Sr,S,SrS,Strontium Sulfide,Ionic,Solid,White,Luminous paints,Phosphor
+Co,Cl,CoCl2,Cobalt Chloride,Ionic,Solid,Blue,Humidity indicator,Color changing salt
+Ni,Cl,NiCl2,Nickel Chloride,Ionic,Solid,Green,Catalyst,Nickel compound
+Cr,Cl,CrCl3,Chromium Chloride,Ionic,Solid,Green,Catalyst,Chromium salt
+Ti,Cl,TiCl4,Titanium Tetrachloride,Covalent,Liquid,Colorless,Smoke screens,Reactive liquid
+V,O,V2O5,Vanadium Pentoxide,Ionic,Solid,Orange,Catalyst,Sulfuric acid production
+Mo,O,MoO3,Molybdenum Oxide,Ionic,Solid,White,Catalyst,Industrial compound
+W,O,WO3,Tungsten Oxide,Ionic,Solid,Yellow,Electrochromic devices,Metal oxide
+Pb,O,PbO,Lead(II) Oxide,Ionic,Solid,Yellow,Batteries pigments,Lead oxide
+Pb,O,PbO2,Lead(IV) Oxide,Ionic,Solid,Brown,Batteries oxidizer,Strong oxidizing oxide
+Pb,S,PbS,Lead Sulfide,Ionic,Solid,Black,Semiconductors,Galena mineral
+Pb,Cl,PbCl2,Lead(II) Chloride,Ionic,Solid,White,Pigments,Toxic compound
+Pb,Br,PbBr2,Lead Bromide,Ionic,Solid,White,Chemical research,Halide salt
+Pb,I,PbI2,Lead Iodide,Ionic,Solid,Yellow,Photovoltaics,Layered crystal
+Pb,F,PbF2,Lead Fluoride,Ionic,Solid,White,Optical materials,Fluoride compound
+Pb,H,PbH4,Lead Hydride,Covalent,Gas,Colorless,Research,Unstable hydride
+Pb,C,PbC,Lead Carbide,Ionic,Solid,Gray,Research,Carbide form
+,,,,,,,,
+Fe,O,FeO,Iron(II) Oxide,Ionic,Solid,Black,Steel production,Basic oxide
+Fe,O,Fe2O3,Iron(III) Oxide,Ionic,Solid,Red,Pigments,Rust form
+Fe,O,Fe3O4,Magnetite,Ionic,Solid,Black,Magnetic material,Mixed oxide
+Fe,S,FeS,Iron Sulfide,Ionic,Solid,Black,Lab reactions,Sulfide mineral
+Fe,S,FeS2,Iron Disulfide,Ionic,Solid,Yellow,Jewelry,Pyrite mineral
+Fe,Cl,FeCl2,Iron(II) Chloride,Ionic,Solid,Green,Water treatment,Iron salt
+Fe,Cl,FeCl3,Iron(III) Chloride,Ionic,Solid,Brown,Etching,Coagulant
+Fe,Br,Feb-02,Iron(II) Bromide,Ionic,Solid,Brown,Chemical synthesis,Halide salt
+Fe,I,FeI2,Iron(II) Iodide,Ionic,Solid,Gray,Research,Halide compound
+Cu,O,CuO,Copper(II) Oxide,Ionic,Solid,Black,Ceramics,Pigment
+Cu,O,Cu2O,Copper(I) Oxide,Ionic,Solid,Red,Paints,Antifouling
+Cu,S,CuS,Copper Sulfide,Ionic,Solid,Black,Semiconductors,Sulfide mineral
+Cu,S,Cu2S,Copper(I) Sulfide,Ionic,Solid,Black,Electronics,Chalcocite
+Cu,Cl,CuCl,Copper(I) Chloride,Ionic,Solid,White,Catalyst,Halide
+Cu,Cl,CuCl2,Copper(II) Chloride,Ionic,Solid,Green,Catalyst,Transition salt
+Cu,Br,CuBr,Copper Bromide,Ionic,Solid,White,Research,Halide
+Cu,I,CuI,Copper Iodide,Ionic,Solid,White,Electronics,Semiconductor
+,,,,,,,,
+Zn,O,ZnO,Zinc Oxide,Ionic,Solid,White,Sunscreen,Rubber additive
+Zn,S,ZnS,Zinc Sulfide,Ionic,Solid,White,Luminous paints,Phosphor
+Zn,Cl,ZnCl2,Zinc Chloride,Ionic,Solid,White,Flux,Chemical salt
+Zn,Br,ZnBr2,Zinc Bromide,Ionic,Solid,White,Batteries,Halide
+Zn,I,ZnI2,Zinc Iodide,Ionic,Solid,White,Medical use,Halide compound
+,,,,,,,,
+Al,O,Al2O3,Aluminium Oxide,Ionic,Solid,White,Abrasives,Hard oxide
+Al,Cl,AlCl3,Aluminium Chloride,Ionic,Solid,White,Catalyst,Acidic salt
+Al,Br,AlBr3,Aluminium Bromide,Ionic,Solid,White,Catalyst,Halide
+Al,I,AlI3,Aluminium Iodide,Ionic,Solid,White,Chemical synthesis,Halide
+Al,N,AlN,Aluminium Nitride,Ionic,Solid,Gray,Electronics,High thermal conductivity
+Al,P,AlP,Aluminium Phosphide,Ionic,Solid,Gray,Pesticide,Toxic compound
+,,,,,,,,
+Mg,O,MgO,Magnesium Oxide,Ionic,Solid,White,Refractory,High melting oxide
+Mg,S,MgS,Magnesium Sulfide,Ionic,Solid,White,Chemical production,Sulfide
+Mg,Cl,MgCl2,Magnesium Chloride,Ionic,Solid,White,Deicing cement,Hygroscopic salt
+Mg,Br,MgBr2,Magnesium Bromide,Ionic,Solid,White,Medicine,Halide
+Mg,I,MgI2,Magnesium Iodide,Ionic,Solid,White,Research,Halide
+,,,,,,,,
+Ca,O,CaO,Calcium Oxide,Ionic,Solid,White,Cement,Quicklime
+Ca,S,CaS,Calcium Sulfide,Ionic,Solid,White,Luminous paints,Sulfide
+Ca,Cl,CaCl2,Calcium Chloride,Ionic,Solid,White,Deicing,Drying agent
+Ca,Br,CaBr2,Calcium Bromide,Ionic,Solid,White,Drilling fluids,Halide
+Ca,I,CaI2,Calcium Iodide,Ionic,Solid,White,Medicine,Halide
+,,,,,,,,
+Na,Cl,NaCl,Sodium Chloride,Ionic,Solid,White,Food preservation,Common salt
+Na,Br,NaBr,Sodium Bromide,Ionic,Solid,White,Medicine,Halide
+Na,I,NaI,Sodium Iodide,Ionic,Solid,White,Medical use,Iodine source
+Na,S,Na2S,Sodium Sulfide,Ionic,Solid,Yellow,Paper industry,Sulfide
+Na,O,Na2O,Sodium Oxide,Ionic,Solid,White,Glass making,Strong base oxide
+,,,,,,,,
+K,Cl,KCl,Potassium Chloride,Ionic,Solid,White,Fertilizer,Potassium source
+K,Br,KBr,Potassium Bromide,Ionic,Solid,White,Photography,Halide
+K,I,KI,Potassium Iodide,Ionic,Solid,White,Medicine,Thyroid protection
+K,S,K2S,Potassium Sulfide,Ionic,Solid,White,Chemical synthesis,Sulfide
+K,O,K2O,Potassium Oxide,Ionic,Solid,White,Fertilizer,Alkali oxide
+,,,,,,,,
+Ag,Cl,AgCl,Silver Chloride,Ionic,Solid,White,Photography,Light sensitive
+Ag,Br,AgBr,Silver Bromide,Ionic,Solid,Yellow,Photography,Photosensitive
+Ag,I,AgI,Silver Iodide,Ionic,Solid,Yellow,Cloud seeding,Photosensitive
+Ag,S,Ag2S,Silver Sulfide,Ionic,Solid,Black,Tarnish formation,Silver corrosion
+Ag,O,Ag2O,Silver Oxide,Ionic,Solid,Brown,Batteries,Oxide
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

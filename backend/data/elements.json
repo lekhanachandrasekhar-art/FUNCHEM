@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sodium",
+    "symbol": "Na",
+    "atomic_number": 11,
+    "atomic_mass": 22.99,
+    "type": "Metal",
+    "bond_type": ["Ionic"],
+    "applications": ["Salt formation", "Street lighting"]
+  },
+  {
+    "name": "Chlorine",
+    "symbol": "Cl",
+    "atomic_number": 17,
+    "atomic_mass": 35.45,
+    "type": "Non-metal",
+    "bond_type": ["Ionic", "Covalent"],
+    "applications": ["Water purification"]
+  }
+]

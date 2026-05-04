@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FUNCHEM - Home</title>
+
+    <!-- ✅ Link CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="home-page">
+
+    <!-- ===== HEADER ===== -->
+    <div class="container">
+        <h1>Periodic Table</h1>
+
+        <!-- ===== CONTROLS ===== -->
+        <div class="controls">
+            <button onclick="setMode('single')">Single Element</button>
+            <button onclick="setMode('double')">Two Elements</button>
+
+            <br><br>
+
+            <input 
+                type="text" 
+                id="search" 
+                placeholder="Search element (H, Na, Oxygen...)"
+                onkeyup="searchElement()"
+            >
+        </div>
+    </div>
+
+    <!-- ===== PERIODIC TABLE GRID ===== -->
+    <div id="periodic-table"></div>
+
+    <!-- ===== JS FILE ===== -->
+    <script src="home.js"></script>
+
+</body>
+</html>

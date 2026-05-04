@@ -1,0 +1,251 @@
+/* ===== GLOBAL ===== */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background:#90dbf4;
+}
+/* ===== GLOBAL RESET ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* ===== CENTER EVERYTHING ===== */
+.page-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+    min-height: 100vh;
+    padding-top: 40px;
+}
+
+/* ===== CARD STYLE ===== */
+.card {
+    width: 400px;
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+
+    text-align: left;
+}
+
+/* ===== TITLE CENTER ===== */
+.title-center {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+/* ===== BUTTON ===== */
+button {
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+/* ===== START PAGE ===== */
+.start-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+}
+
+.center-box {
+    text-align: center;
+    color: white;
+}
+
+.center-box h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.center-box button {
+    padding: 12px 30px;
+    font-size: 18px;
+    background: #00ffc3;
+}
+/* ===== HOME PAGE ===== */
+/* ===== PAGE CENTER ===== */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ===== TITLE ===== */
+.main-title {
+    font-size: 40px;
+    margin: 20px 0;
+}
+
+/* ===== CONTROLS ===== */
+.controls {
+    margin-bottom: 20px;
+}
+
+.controls button {
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+    background: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+.controls input {
+    padding: 10px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+/* ===== REAL PERIODIC TABLE GRID ===== */
+#periodic-table {
+    display: grid;
+    grid-template-columns: repeat(18, 60px);
+    grid-auto-rows: 60px;
+    gap: 8px;
+    justify-content: center;
+}
+
+/* ===== ELEMENT BOX ===== */
+.element {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 8px;
+    background: white;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+.element:hover {
+    background: #00c9a7;
+    color: white;
+}
+
+/* ===== CATEGORY COLORS ===== */
+.element.metal {
+    background: #ffd166;
+}
+
+.element.nonmetal {
+    background: #90dbf4;
+}
+
+.element.metalloid {
+    background: #cdb4db;
+}
+.grid button {
+    width: 200px;             /* same width for all buttons */
+    padding: 12px;
+    font-size: 18px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.grid button:hover {
+    background: #4CAF50;
+    color: white;
+    transform: scale(1.05);
+}
+/* Container for compound buttons */
+.compound-list {
+    display: flex;
+    flex-direction: column;   /* 🔑 makes items vertical */
+    align-items: center;      /* center horizontally */
+    gap: 15px;                /* space between buttons */
+    margin-top: 20px;
+}
+
+/* Each compound button */
+.compound-btn {
+    width: 220px;
+    padding: 12px;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    border: none;
+    border-radius: 10px;
+
+    background: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover effect */
+.compound-btn:hover {
+    background: #4CAF50;
+    color: white;
+    transform: scale(1.05);
+}
+
+/* ===== COMPOUNDS PAGE ===== */
+.compounds-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.compounds-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.compounds-grid button {
+    padding: 15px 25px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    cursor: pointer;
+}
+
+
+
+/* ===== INFO CARD ===== */
+.card {
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background: white;
+    box-shadow: 0 6px 15px rgba(122, 43, 43, 0.2);
+    text-align: center;
+}
+
+/* ===== BACK BUTTON ===== */
+.back-btn {
+    display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: black;
+    color: white;
+    border: none;
+}
